@@ -21,5 +21,17 @@
       "role": "development"
     },
     "coverImage": "static/1649356546946_Instagram & Linkedin.png"
+  },
+  {
+    "createdAt": 1649359471498,
+    "slug": "post-two",
+    "description": "Example post 2 ..... gdşlsjhgşdljgşsldjg",
+    "ID": "34bd99f0-7e4b-4f95-b71d-8592253ef3a2",
+    "categories": [],
+    "tags": [],
+    "content": "---\ntitle: Getting started\ndescription: 'Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.'\n---\n\nEmpower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.\n\n## Writing content\n\nLearn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.\n\n## Fetching content\n\nLearn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.\n\n## Displaying content\n\nLearn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.\n",
+    "title": "Post two superb",
+    "author": [],
+    "coverImage": "static/1649359469500_4.png"
   }
 ]
