@@ -4,7 +4,7 @@
       <BlogHeader />
       <BlogHero />
       <div class="posts mb-24 flex flex-wrap -mx-1 lg:-mx-4">
-        <PostCard v-for="i in 10" :key="i" />
+        <PostCard v-for="post in posts" :key="post.title" />
       </div>
     </div>
     <div>
@@ -16,6 +16,13 @@
 <script>
 export default {
   name: 'IndexPage',
+  async asyncData({ $content }) {
+    const posts = await $content('/posts').fetch()
+    console.log(posts, 'post')
+    return {
+      posts,
+    }
+  },
 }
 </script>
 <style lang="postcss"></style>
