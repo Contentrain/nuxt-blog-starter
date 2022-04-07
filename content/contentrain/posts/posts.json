@@ -6,7 +6,9 @@
     "content": "\n## Contentrain is the best CMS\n\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam magnam\n    quod, possimus qui similique culpa nemo commodi ratione, repudiandae\n    deserunt aut dolorum. Porro sapiente impedit rem aut soluta facere nulla!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam magnam\n    quod, possimus qui similique culpa nemo commodi ratione, repudiandae\n![Best CMS Contentrain](https://res.cloudinary.com/dowlbhxa2/image/upload/f_auto,q_auto,w_1366/v1648064180/Select_a_repository_optimized_c2iyvl.svg)\n    deserunt aut dolorum. Porro sapiente impedit rem aut soluta facere nulla!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam magnam\n    quod, possimus qui similique culpa nemo commodi ratione, repudiandae\n    deserunt aut dolorum. Porro sapiente impedit rem aut soluta facere nulla!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam magnam\n    quod, possimus qui similique culpa nemo commodi ratione, repudiandae\n    deserunt aut dolorum. Porro sapiente impedit rem aut soluta facere nulla!",
     "title": "Why Contentrain is the best CMS",
     "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam magnam quod, possimus qui similique culpa nemo commodi ratione, repudiandae deserunt aut dolorum. Porro sapiente impedit rem aut soluta facere nulla!.",
-    "categories": [],
+    "categories": [
+      "cms"
+    ],
     "tags": [],
     "slug": "why-contentrain-is-the-best-cms",
     "author": [],
