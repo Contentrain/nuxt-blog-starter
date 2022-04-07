@@ -1,4 +1,4 @@
-# nuxt-blog-starter
+# nuxt-blog-starter for ### Contentrain Headless CMS
 
 ## Build Setup
 
