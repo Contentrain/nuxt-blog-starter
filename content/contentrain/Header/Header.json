@@ -9,6 +9,12 @@
         "ID": "cfb3aaca-74e3-4a10-a873-66a105e63cae",
         "url": "https://twitter.com/contentrain_io?s=21",
         "iconName": "ri-twitter-line"
+      },
+      {
+        "createdAt": 1649454877694,
+        "ID": "33a1689b-2d79-4ea5-be4c-0f98ad6e1b7c",
+        "url": "https://www.instagram.com/contentrain_",
+        "iconName": "ri-instagram-line"
       }
     ]
   }
