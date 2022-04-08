@@ -23,12 +23,13 @@
     "coverImage": "static/1649356546946_Instagram & Linkedin.png"
   },
   {
+    "updatedAt": 1649416425910,
     "createdAt": 1649359700064,
-    "content": "---\ntitle: Getting started\ndescription: 'Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.'\n---\n\nEmpower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.\n\n## Writing content\n\nLearn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.\n\n## Fetching content\n\nLearn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.\n\n## Displaying content\n\nLearn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.\n",
+    "content": "---\nfgdsf\ntitle: Getting started\ndescription: 'Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.'\n---\n\nEmpower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.\n\n## Writing content\n\nLearn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.\n\n## Fetching content\n\nLearn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.\n\n## Displaying content\n\nLearn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.\n",
     "categories": [
       "tech"
     ],
-    "title": "Learn how to display your Markdown c",
+    "title": "Learn how to display your Markdown const.",
     "tags": [
       "marketing",
       "design"
