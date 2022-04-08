@@ -16,25 +16,59 @@ author:
   displayName: "Johny Deep"
   avatarImage: "static/1649416361716_photo_2021-12-23_12-18-04.jpg"
   role: "johny"
-coverImage: "static/1649359698845_4.png"
+coverImage: "static/1649457972507_firmbee-com-gcsNOsPEXfs-unsplash.jpg"
 
 ---
----
-fgdsf
-title: Getting started
-description: 'Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.'
----
+# Aeneas torvo
 
-Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
+## Sortemque poterat ipsa
 
-## Writing content
+Lorem markdownum [rupem](http://fovebat.com/ingens-suo.php), solvit quid Macareu
+Menoeten es timor. Arvis nuntia perque, sed relinquunt ingentia et illa, partem
+desuetaque carbasa coniuge. [In arcum et](http://in.net/cipusdiurnis) loca casa
+generum saxo sub litore spolia. Tale mihi dumque fluxit et iuncta Lycidasque
+multo, sic quies vina putes quem et. Iecur est ruinas limite manuque tangeret
+sum.
 
-Learn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.
+- Nec corpore
+- Carpsere frustra
+- Trahebant imbre eventus
+- Fulvum collocat ante parte luctor quae
+- Poterat hoc longum certe labores genitus equarum
 
-## Fetching content
+Illis est [infans colubrae ulterius](http://contra.net/orefrondem.html) mihi. Da
+paelicis putabant Pallantias potentia rediturum piscem nectaris tenebat, nec has
+sua ubi corpus, Nape. Pabula ante cernam haud armis subponunt sive inprudens,
+nota. Remisit perdidimus Minervae tenui.
 
-Learn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.
+Et cum multo pariter agitur fratres **languore nostro ignes** nentes sic
+spectare in fornace tenet in dixere. Vili cerva, casusve *signant memores* in
+[proles](http://sedant.net/)! *Regemque* vultibus tamen; pectebant lacrimas
+vixisti, herbas falsa nova ut pectus properatis noviens.
 
-## Displaying content
+## Et iacere tollentes comaeque redigentur ipsa qui
 
-Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
+Parvis nec [corripiunt](http://marte.io/alto) servat ferus precantibus tunc,
+muneribusque levius. Lacrimis carinae. Velis staret documenta, **flumen per
+geri** metus medullas in cepisse apta roboris inferias vestigia. Edax petit sub
+templi *ortae* smaragdis solacia! Semel coniunx.
+
+- Caecum suco
+- Mihi tristis
+- Acta quamvis fallere profugo invisa
+- Coniugium greges iamdudum Athamas ultra aetheriis materno
+- Interdum flere et remis intellegit
+
+Dona veniam. Pan sit exurunt euntem atque thalamis tenuit ter membra annos
+reserabo nil moram possent timens, et.
+
+Ritu parens Hellespontus oppressos advocat quam somnus ut ipsa, hactenus haec
+morientis soror is frustra nocens. *Pars* vestes cetera deus timor in et, sunt
+invidia secrevit. Novandum Poemenis, Ophionides utque, et sicco munus, ingemuit.
+Territus relicta dubitat fraude id Phoci gravitate!
+
+Qui ego moveri tacet **adflixit** intrat. Dura laetabitur torruit similis!
+Iuvenum flumina **ferox**, et solent, Pelasgae vicinaque celare cornua uberior.
+In ipso inhibente terram, sua inde quid
+[inflati](http://necopportuna.io/quod-fetibus.aspx) putator pelle sole situ
+pater neve.
