@@ -15,6 +15,12 @@
         "ID": "33a1689b-2d79-4ea5-be4c-0f98ad6e1b7c",
         "url": "https://www.instagram.com/contentrain_",
         "iconName": "ri-instagram-line"
+      },
+      {
+        "createdAt": 1649454898177,
+        "ID": "6b81a843-4800-4348-9ed4-171cd5704563",
+        "url": "https://www.linkedin.com/company/contentrain",
+        "iconName": "ri-linkedin-line"
       }
     ]
   }
