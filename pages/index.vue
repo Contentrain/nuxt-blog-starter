@@ -18,7 +18,6 @@ export default {
   name: 'IndexPage',
   async asyncData({ $content }) {
     const posts = await $content('/posts').fetch()
-    console.log(posts, 'post')
     return {
       posts,
     }

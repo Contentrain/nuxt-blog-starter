@@ -61,9 +61,6 @@ export default {
       },
     },
   },
-  mounted() {
-    console.log(this.post.author, this.post.title)
-  },
 }
 </script>
 
