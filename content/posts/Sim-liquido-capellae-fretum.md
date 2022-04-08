@@ -1,5 +1,5 @@
 ---
-updatedAt: 1649458243819
+updatedAt: 1649458282999
 createdAt: 1649359784479
 categories:
   - "headless"
@@ -15,7 +15,7 @@ author:
   displayName: "Melinda Crawler"
   avatarImage: "static/1649415380050_photo_2021-12-23_12-17-55.jpg"
   role: "Space"
-coverImage: ""
+coverImage: "static/1649458281131_carlos-muza-hpjSkU2UYSU-unsplash.jpg"
 
 ---
 # Aequalique magna suprema rediit fulvis di cruorem
