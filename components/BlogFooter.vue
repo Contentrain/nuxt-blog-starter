@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-black p-4 text-gray-100 flex justify-center items-center">
-    <ul class="flex flex-wrap">
+    <ul v-if="footerData" class="flex flex-wrap">
       <li v-for="(link, i) in footerData.links" :key="i">
         <a
           class="hover:text-blue-300"

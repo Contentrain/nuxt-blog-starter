@@ -1,5 +1,5 @@
 <template>
-  <div class="py-24 text-center">
+  <div v-if="heroData" class="py-24 text-center">
     <h3 class="text-yellow-600 text-base font-bold mb-2">
       {{ heroData.subtitle }}
     </h3>
