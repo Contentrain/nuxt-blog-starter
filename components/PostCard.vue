@@ -40,7 +40,6 @@
       <div class="post-card__footer-right p-1">
         <nuxt-link
           class="text-xs text-blue-600 hover:text-gray-900"
-          tag="a"
           :to="'/posts/'+ post.slug"
         >
           Read more

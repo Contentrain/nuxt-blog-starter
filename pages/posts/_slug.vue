@@ -2,15 +2,17 @@
   <div>
     <div class="container mx-auto px-1 w-full min-h-screen">
       <BlogHeader />
-      <div class="post-hero py-24 flex justify-between items-center">
-        <div class="post-card__cover-image">
+      <div class="post-hero py-24 flex justify-between items-center flex-wrap">
+        <div
+          class="post-card__cover-image mb-12 sm:mb-0 sm:w-1/2 w-full sm:pr-4"
+        >
           <img
-            class="object-contain w-full h-96"
+            class="w-full h-auto"
             :src="post.coverImage.split('static')[1]"
             :alt="post.title"
           />
         </div>
-        <div class="post-detail w-1/2">
+        <div class="post-detail sm:w-1/2 w-full sm:pl-4">
           <div class="post-card_title">
             <h2 class="text-xl font-semibold mb-2">
               {{ post.title }}
@@ -40,15 +42,15 @@
           </div>
         </div>
       </div>
-      <article class="post mb-24 flex flex-wrap -mx-1 lg:-mx-4">
+      <hr class="mb-12 text-gray-300" />
+      <article class="post mb-24 flex flex-wrap">
         <nuxt-content :document="post"></nuxt-content>
       </article>
-      <hr class="mb-2 text-gray-300">
+      <hr class="mb-2 mt-12 text-gray-300" />
       <div class="post-footer flex justify-between items-center mb-24">
         <nuxt-link
           v-if="prev"
           class="text-xs text-blue-600 hover:text-gray-900"
-          tag="a"
           :to="prev.path"
         >
           <i class="ri-arrow-left-s-line"></i>
@@ -57,7 +59,6 @@
         <nuxt-link
           v-if="next"
           class="text-xs text-blue-600 hover:text-gray-900"
-          tag="a"
           :to="next.path"
         >
           {{ next.title }}
@@ -80,7 +81,6 @@ export default {
       .sortBy('createdAt')
       .surround(params.slug)
       .fetch()
-    console.log(next, prev)
     return {
       post,
       next,
@@ -89,5 +89,3 @@ export default {
   },
 }
 </script>
-
-<style></style>
