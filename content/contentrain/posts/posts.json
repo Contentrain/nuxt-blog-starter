@@ -30,7 +30,8 @@
     ],
     "title": "Learn how to display your Markdown c",
     "tags": [
-      "marketing"
+      "marketing",
+      "design"
     ],
     "ID": "959a340e-2761-4125-8d06-b0d70ff6a882",
     "description": "Learn how to display your Markdown content with the <nuxt-content> component directly in your template: https://content.nuxtjs.org/displaying.",
