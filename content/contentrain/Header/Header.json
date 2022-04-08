@@ -3,6 +3,13 @@
     "createdAt": 1649454764941,
     "ID": "f8b185c1-76ca-4246-945b-3d37843d53dd",
     "logo": "static/1649454761001_icon.png",
-    "socialIcons": []
+    "socialIcons": [
+      {
+        "createdAt": 1649454858978,
+        "ID": "cfb3aaca-74e3-4a10-a873-66a105e63cae",
+        "url": "https://twitter.com/contentrain_io?s=21",
+        "iconName": "ri-twitter-line"
+      }
+    ]
   }
 ]
