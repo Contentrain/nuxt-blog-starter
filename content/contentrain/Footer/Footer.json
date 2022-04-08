@@ -12,6 +12,12 @@
         "ID": "f77b02d4-ee0f-4a17-bb54-cf787e8e5485",
         "url": "ttps://contentrain.io/docs",
         "label": "User Guide"
+      },
+      {
+        "createdAt": 1649455085362,
+        "ID": "8fd5c092-2297-4aae-aeec-250b197f80bc",
+        "url": "https://contentrain.io/product/why",
+        "label": "Product"
       }
     ],
     "createdAt": 1649455010602,
