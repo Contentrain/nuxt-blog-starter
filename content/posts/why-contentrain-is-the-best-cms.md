@@ -10,9 +10,10 @@ tags:
   - "design"
 slug: "why-contentrain-is-the-best-cms"
 author:
+  updatedAt: 1649418916957
   createdAt: 1649356758106
   ID: "efa1af93-736f-4723-9a25-afb9c4010c5a"
-  displayName: "Ahmet Bayhan BAYRAMOĞLU"
+  displayName: "Bayhan BAYRAMOĞLU"
   avatarImage: "static/1649356756618_1634587076141.jpeg"
   role: "development"
 coverImage: "static/1649356546946_Instagram & Linkedin.png"
