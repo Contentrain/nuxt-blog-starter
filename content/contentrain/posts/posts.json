@@ -39,11 +39,12 @@
     "description": "Learn how to display your Markdown content with the <nuxt-content> component directly in your template: https://content.nuxtjs.org/displaying.",
     "slug": "learn-how-to-display-your-markdown",
     "author": {
+      "updatedAt": 1649458503902,
       "createdAt": 1649416368519,
       "ID": "d3b28ae1-3f3e-4f23-9741-3d81f94df7ab",
       "displayName": "Johny Deep",
       "avatarImage": "static/1649416361716_photo_2021-12-23_12-18-04.jpg",
-      "role": "johny"
+      "role": "analytics"
     },
     "coverImage": "static/1649458116438_firmbee-com-gcsNOsPEXfs-unsplash.jpg"
   },
