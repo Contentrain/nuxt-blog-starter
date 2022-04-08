@@ -85,7 +85,13 @@
     "tags": [
       "test"
     ],
-    "author": [],
+    "author": {
+      "createdAt": 1649458792087,
+      "ID": "0a2ebcca-c896-40c2-9f4a-12be2dd8dbba",
+      "displayName": "Meltem Tembel",
+      "avatarImage": "static/1649458779469_79.jpeg",
+      "role": "web analyst"
+    },
     "coverImage": "static/1649458654037_green-chameleon-s9CC2SKySJM-unsplash.jpg"
   }
 ]
