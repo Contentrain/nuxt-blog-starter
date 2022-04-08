@@ -1,6 +1,7 @@
 ---
 createdAt: 1649359784479
-categories: []
+categories:
+  - "headless"
 title: "Empower your NuxtJS application "
 tags: []
 ID: "a444e4a4-9e3a-4821-95bf-7d2850e99096"
