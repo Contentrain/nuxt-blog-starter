@@ -16,7 +16,7 @@ author:
   displayName: "Johny Deep"
   avatarImage: "static/1649416361716_photo_2021-12-23_12-18-04.jpg"
   role: "johny"
-coverImage: "static/1649458064255_thought-catalog-505eectW54k-unsplash.jpg"
+coverImage: ""
 
 ---
 # Aeneas torvo
