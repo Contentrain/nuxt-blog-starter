@@ -1,7 +1,8 @@
 ---
 createdAt: 1649458655804
 ID: "8639d606-5175-4863-937a-efde66f5c7ae"
-categories: []
+categories:
+  - "seo"
 title: "Moles ductus"
 description: "Fallax quodque primum et cumque in natas viderat\nmarmoreoque tamen in olor. Repetenda prosit, Caesareo in paelice in comitatur\npotest arida color et pius auro pennis corpora. Molirique pars posse inpetus"
 slug: "moles-ductus"
