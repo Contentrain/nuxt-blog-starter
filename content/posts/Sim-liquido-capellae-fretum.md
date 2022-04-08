@@ -10,9 +10,10 @@ ID: "a444e4a4-9e3a-4821-95bf-7d2850e99096"
 description: "Learn how to fetch your content with $content: https://content.nuxtjs.org/fetching."
 slug: "Sim-liquido-capellae-fretum"
 author:
+  updatedAt: 1649458538654
   createdAt: 1649415388116
   ID: "8b2354e4-043e-44b5-a189-6e007a3cdd16"
-  displayName: "Melinda Crawler"
+  displayName: "Dart Wader"
   avatarImage: "static/1649415380050_photo_2021-12-23_12-17-55.jpg"
   role: "Space"
 coverImage: "static/1649458281131_carlos-muza-hpjSkU2UYSU-unsplash.jpg"
