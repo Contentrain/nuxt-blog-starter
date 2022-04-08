@@ -3,7 +3,8 @@ createdAt: 1649359784479
 categories:
   - "headless"
 title: "Empower your NuxtJS application "
-tags: []
+tags:
+  - "testtag"
 ID: "a444e4a4-9e3a-4821-95bf-7d2850e99096"
 description: "Learn how to fetch your content with $content: https://content.nuxtjs.org/fetching."
 slug: "Empower-your-NuxtJS-application "
