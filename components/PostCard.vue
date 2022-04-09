@@ -34,7 +34,7 @@
     <div class="post-card__footer flex items-center justify-between">
       <div class="post-card__footer-left">
         <span class="text-xs rounded-lg p-1 bg-blue-200">
-          <span class="mx-1 text-black">{{post.categories[0]}}</span>
+          <span class="mx-1 text-blue-500 font-semibold">{{post.categories[0]}}</span>
         </span>
       </div>
       <div class="post-card__footer-right p-1">

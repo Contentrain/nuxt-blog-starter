@@ -40,6 +40,25 @@
               new Date(post.createdAt).toLocaleDateString()
             }}</span>
           </div>
+          <div class="post-tags flex">
+            <span
+              v-for="tag in post.tags"
+              :key="tag"
+              :class="
+                tagColors[Math.floor(Math.random() * 4)].bg
+              "
+              class="text-xs rounded-lg p-1 mr-2"
+            >
+              <span
+                :class="
+                  tagColors[Math.floor(Math.random() * 4)]
+                    .text
+                "
+                class="mx-1 font-semibold"
+                >#{{ tag }}</span
+              >
+            </span>
+          </div>
         </div>
       </div>
       <hr class="mb-12 text-gray-300" />
@@ -85,6 +104,28 @@ export default {
       post,
       next,
       prev,
+    }
+  },
+  data() {
+    return {
+      tagColors: [
+        {
+          text: 'text-blue-500',
+          bg: 'bg-blue-100',
+        },
+        {
+          text: 'text-red-500',
+          bg: 'bg-red-100',
+        },
+        {
+          text: 'text-yellow-500',
+          bg: 'bg-yellow-100',
+        },
+        {
+          text: 'text-green-500',
+          bg: 'bg-green-100',
+        },
+      ],
     }
   },
 }
