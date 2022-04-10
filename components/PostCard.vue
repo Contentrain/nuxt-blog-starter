@@ -1,5 +1,5 @@
 <template>
-  <div class="post-card my-2 px-2 w-full md:w-1/2 lg:my-6 lg:px-6 lg:w-1/3">
+  <div v-if="post" class="post-card my-2 px-2 w-full md:w-1/2 lg:my-6 lg:px-6 lg:w-1/3">
     <div class="post-card__cover-image mb-2">
       <img
         class="object-cover rounded-xl w-full h-72"

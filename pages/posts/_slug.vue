@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div v-if="post">
     <div class="container mx-auto px-1 w-full min-h-screen">
       <BlogHeader />
       <div class="post-hero py-24 flex justify-between items-center flex-wrap">
@@ -44,16 +44,11 @@
             <span
               v-for="tag in post.tags"
               :key="tag"
-              :class="
-                tagColors[Math.floor(Math.random() * 4)].bg
-              "
+              :class="tagColors[Math.floor(Math.random() * tagColors.length)].bg"
               class="text-xs rounded-lg p-1 mr-2"
             >
               <span
-                :class="
-                  tagColors[Math.floor(Math.random() * 4)]
-                    .text
-                "
+                :class="tagColors[Math.floor(Math.random() * tagColors.length)].text"
                 class="mx-1 font-semibold"
                 >#{{ tag }}</span
               >
@@ -66,24 +61,7 @@
         <nuxt-content :document="post"></nuxt-content>
       </article>
       <hr class="mb-2 mt-12 text-gray-300" />
-      <div class="post-footer flex justify-between items-center mb-24">
-        <nuxt-link
-          v-if="prev"
-          class="text-xs text-blue-600 hover:text-gray-900"
-          :to="prev.path"
-        >
-          <i class="ri-arrow-left-s-line"></i>
-          {{ prev.title }}
-        </nuxt-link>
-        <nuxt-link
-          v-if="next"
-          class="text-xs text-blue-600 hover:text-gray-900"
-          :to="next.path"
-        >
-          {{ next.title }}
-          <i class="ri-arrow-right-s-line"></i>
-        </nuxt-link>
-      </div>
+      <PostNavigation :prev="prev" :next="next" />
     </div>
     <div>
       <BlogFooter />
@@ -97,7 +75,7 @@ export default {
     const post = await $content('posts', params.slug).fetch()
     const [prev, next] = await $content('posts')
       .only(['title', 'slug'])
-      .sortBy('createdAt')
+      .sortBy('createdAt', 'asc')
       .surround(params.slug)
       .fetch()
     return {

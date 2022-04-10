@@ -17,7 +17,7 @@
 export default {
   name: 'IndexPage',
   async asyncData({ $content }) {
-    const posts = await $content('/posts').fetch()
+    const posts = await $content('/posts').sortBy('createdAt', 'desc').fetch()
     return {
       posts,
     }
