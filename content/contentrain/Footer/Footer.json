@@ -1,0 +1,26 @@
+[
+    {
+      "links": [
+        {
+          "createdAt": 1649455050430,
+          "ID": "feb68789-cd39-464d-9dee-293317c4ab35",
+          "url": "https://contentrain.io/about",
+          "label": "About"
+        },
+        {
+          "createdAt": 1649455065777,
+          "ID": "f77b02d4-ee0f-4a17-bb54-cf787e8e5485",
+          "url": "https://contentrain.io/docs",
+          "label": "User Guide"
+        },
+        {
+          "createdAt": 1649455085362,
+          "ID": "8fd5c092-2297-4aae-aeec-250b197f80bc",
+          "url": "https://contentrain.io/product/why",
+          "label": "Product"
+        }
+      ],
+      "createdAt": 1649455010602,
+      "ID": "6831f4bd-d4d2-485c-adf4-fe0863fd1168"
+    }
+  ]
