@@ -12,15 +12,11 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: 'BlogHero',
-  data() {
-    return {
-      heroData: null,
-    }
-  },
-}
+<script setup>
+const { data } = await useAsyncData("hero", () =>
+  queryContent("contentrain", "hero").findOne()
+);
+let heroData = data.value.body[0];
 </script>
 
 <style></style>
