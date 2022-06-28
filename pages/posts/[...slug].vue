@@ -59,8 +59,8 @@
           </div>
         </div>
       </div>
-      <article class="prose lg:prose-xl w-full mx-auto">
-        <ContentRenderer class="w-full" :value="doc" />
+      <article class="prose prose-gray lg:prose-xl mx-auto">
+        <ContentRenderer :value="doc" />
       </article>
       <ContentNavigation>
         <PostNavigation :prev="prev" :next="next" />

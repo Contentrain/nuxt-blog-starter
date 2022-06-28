@@ -6,7 +6,7 @@
     <nuxt-link :to="post._path">
       <div class="post-card__cover-image mb-2">
         <img
-          class="object-cover rounded-xl w-full h-72"
+          class="object-cover rounded-xl w-full h-72 hover:grayscale transition duration-300 hover:ease-in"
           :src="post.coverImage.split('public')[1]"
           :alt="post.title"
         />
@@ -28,7 +28,7 @@
       </div>
       <div class="post-card_title">
         <h2
-          class="text-xl font-semibold mb-2 overflow-hidden overflow-ellipsis h-7"
+          class="text-xl font-semibold mb-2 overflow-hidden overflow-ellipsis h-7 transition duration-300 hover:text-blue-600"
         >
           {{ post.title }}
         </h2>

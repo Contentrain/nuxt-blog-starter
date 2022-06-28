@@ -13,14 +13,20 @@
         {
           "createdAt": 1649454877694,
           "ID": "33a1689b-2d79-4ea5-be4c-0f98ad6e1b7c",
-          "url": "https://www.instagram.com/contentrain_",
-          "iconName": "ri-instagram-line"
+          "url": "https://discord.com/invite/4db2PjWYtG",
+          "iconName": "ri-discord-line"
         },
         {
           "createdAt": 1649454898177,
           "ID": "6b81a843-4800-4348-9ed4-171cd5704563",
           "url": "https://www.linkedin.com/company/contentrain",
           "iconName": "ri-linkedin-line"
+        },
+        {
+          "createdAt": 1656421072139,
+          "ID": "6b81a843-4800-4348-9ed4-289ed5814542",
+          "url": "https://github.com/Contentrain/nuxt-blog-starter/",
+          "iconName": "ri-github-line"
         }
       ]
     }
