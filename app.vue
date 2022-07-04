@@ -1,7 +1,9 @@
 <template>
-  <div class="container mx-auto">
-    <BlogHeader />
-    <NuxtPage />
-  </div>
+  <div>
+    <div class="container mx-auto">
+      <BlogHeader />
+      <NuxtPage />
+    </div>
     <BlogFooter />
+  </div>
 </template>
